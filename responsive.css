@@ -40,7 +40,7 @@ footer{
         flex-direction: column;
     }
     .content span a{
-       font-size: 0.6em;
+       font-size: 1em;
        padding: 0em;
     }
 
